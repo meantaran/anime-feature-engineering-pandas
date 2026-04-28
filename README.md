@@ -56,4 +56,3 @@ Goal:
 
 ---
 
-## 📁 Project Structure
